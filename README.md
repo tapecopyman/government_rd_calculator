@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 정부 R&D 과제 총연구개발비 계산 프로그램
 
 이 프로그램은 정부 R&D 과제의 총연구개발비를 계산합니다.
@@ -14,3 +15,7 @@
 ## 테스트 실행
 
 `python -m unittest discover tests`를 실행하여 모든 테스트를 실행합니다.
+=======
+# government_rd_calculator
+R&amp;D 과제의 정부지원금을 기반으로, 전체 과제 금액을 산정한다
+>>>>>>> bc286bf89da8ed30c1707ac05749be4ee6d17592
